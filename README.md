@@ -1,0 +1,2 @@
+# KOT
+Kitchen Order Ticket
